@@ -3,7 +3,7 @@
     {
       "name": "اپل",
       "engName": "iOS",
-      "osLogo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Apple_logo_black.svg",
+      "osLogo": "https://github.com/ali-ar1/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
       "apps": [
         {
           "name": "Streisand",
@@ -17,22 +17,22 @@
             {
               "stepText": "Step 1: Download and install the Streisand app from the App Store.",
               "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/streisand/1.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/streisand/1.jpg"
             },
             {
               "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
               "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/streisand/2.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/streisand/2.jpg"
             },
             {
               "stepText": "Step 3: Choose your server location.",
               "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/streisand/3.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/streisand/3.jpg"
             },
             {
               "stepText": "Step 4: Click on the connect button (blue).",
               "faStepText": "مرحله ۴: بر روی دکمه اتصال (آبی) کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/streisand/4.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/streisand/4.jpg"
             }
           ]
         },
@@ -57,17 +57,17 @@
             {
               "stepText": "Step 1: Download and install the V2box app from the App Store.",
               "faStepText": "مرحله ۱: برنامه وی تو باکس را از اپ استور دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2box/1.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2box/1.jpg"
             },
             {
               "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
               "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2box/2.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2box/2.jpg"
             },
             {
               "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the slide to connect section.",
               "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت از بخش slide to connect متصل شوید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2box/3.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2box/3.jpg"
             }
           ]
         }
@@ -90,17 +90,17 @@
             {
               "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
               "faStepText": "مرحله ۱: برنامه v2rayng را از گیت هاب دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2rayng/1.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2rayng/1.jpg"
             },
             {
               "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
               "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2rayng/2.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2rayng/2.jpg"
             },
             {
               "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
               "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2rayng/3.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2rayng/3.jpg"
             }
           ]
         },
@@ -116,17 +116,17 @@
             {
               "stepText": "Step 1: Download and install the V2box app from the Google Play Store.",
               "faStepText": "مرحله ۱: برنامه وی تو باکس را از پلی استور دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2box-android/1.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2box-android/1.jpg"
             },
             {
               "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
               "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2box-android/2.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2box-android/2.jpg"
             },
             {
               "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the connect Button.",
               "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت با زدن روی دکمه کانکت متصل شوید.",
-              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/v2box-android/3.jpg"
+              "stepImage": "https://github.com/ali-ar1/public-assets/refs/heads/main/tutorials/v2box-android/3.jpg"
             }
           ]
         }
@@ -181,4 +181,8 @@
       ]
     }
   ]
-}
+} 
+
+لینک ها رو درست کن 
+https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons
+لینک پوشه  
