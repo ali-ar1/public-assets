@@ -110,7 +110,7 @@
           "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "hiddify  یک کلاینت برای دستگاه‌های اندرویدی است.",
-          "configLink": "sing-box://import-remote-profile?url={url_encoded}&name=Sub",
+          "configLink": "sing-box://import-remote-profile?url={fullUrl}&name=Sub",
           "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1"
         },
         {
