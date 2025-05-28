@@ -104,6 +104,15 @@
             }
           ]
         },
+                {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
+          "description": "A V2Ray client for Android devices.",
+          "faDescription": "hiddify  یک کلاینت برای دستگاه‌های اندرویدی است.",
+          "configLink": "sing-box://import-remote-profile?url=${fullUrl}#Sub",
+          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1"
+        },
         {
           "name": "V2box",
           "price": "0",
@@ -144,6 +153,14 @@
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
+        },
+                        {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
+          "description": "A V2Ray client for Android devices.",
+          "faDescription": "hiddify  یک کلاینت برای دستگاه‌های اندرویدی است.",
+          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1"
         },
         {
           "name": "Nekoray",
