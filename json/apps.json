@@ -22,6 +22,18 @@
     "ShowInMenu": true
   },
   {
+    "name": "Hiddify",
+    "urlScheme": "v2rayng://install-config",
+    "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
+    "link": "sing-box://import-remote-profile?url=${fullUrl}#Sub",
+    "os": ["Android", "Windows"],
+    "downloadLinks": {
+      "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1",
+      "Windows": "https://github.com/hiddify/hiddify-app/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe"
+    },
+    "ShowInMenu": false
+  },
+  {
     "name": "V2box",
     "urlScheme": "v2box://install-sub",
     "image": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",
