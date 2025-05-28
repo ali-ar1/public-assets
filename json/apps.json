@@ -25,7 +25,7 @@
     "name": "Hiddify",
     "urlScheme": "v2rayng://install-config",
     "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
-    "link": "sing-box://import-remote-profile?url={url_encoded}&name=Sub",
+    "link": "sing-box://import-remote-profile?url={fullUrl}&name=Sub",
     "os": ["Android", "Windows"],
     "downloadLinks": {
       "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1",
