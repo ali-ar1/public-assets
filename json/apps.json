@@ -51,7 +51,7 @@
     "image": "https://fa.v2rayn.org/wp-content/uploads/2024/01/favicon.png",
     "os": ["Windows"],
     "downloadLinks": {
-      "Windows": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip"
+      "Windows": "https://github.com/2dust/v2rayN/releases/download/7.12.5/v2rayN-windows-64-SelfContained.zip"
     },
     "ShowInMenu": false
   },
