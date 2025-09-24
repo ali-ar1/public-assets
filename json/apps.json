@@ -23,9 +23,9 @@
   },
   {
     "name": "Happ",
-    "urlScheme": "happ://sub/onadd/{url}",
+    "urlScheme": "happ://sub/add/{url}",
     "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
-    "link": "happ://sub/onadd/{url}",
+    "link": "happ://sub/add/{url}",
     "os": ["iOS", "Android", "Windows"],
     "downloadLinks": {
        "iOS": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
