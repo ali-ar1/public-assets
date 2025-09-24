@@ -23,7 +23,7 @@
   },
   {
     "name": "Happ",
-    "urlScheme": "happ://sub/add/{EncodedUrl}",
+    "urlScheme": "happ://sub/add/{url}",
     "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
     "link": "happ://sub/add/{EncodedUrl}",
     "os": ["iOS", "Android", "Windows"],
