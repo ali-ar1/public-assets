@@ -111,7 +111,19 @@
           "configLink": "happ://sub/add/{url}",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "Happ  یک کلاینت برای دستگاه‌های اندرویدی است.",
-          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1"
+          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1",
+          "tutorialSteps": [
+            {
+              "stepText": "Step 3: Choose your server location.",
+              "faStepText": "مرحله 1: مکان سرور خود را انتخاب کنید.",
+              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/Happ/1.jpg"
+            },
+            {
+              "stepText": "Step 4: Click on the connect button (blue).",
+              "faStepText": "مرحله 2: بر روی دکمه اتصال (آبی) کلیک کنید.",
+              "stepImage": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/tutorials/Happ/2.jpg"
+            }
+          ]
         },
          {
           "name": "Hiddify",
