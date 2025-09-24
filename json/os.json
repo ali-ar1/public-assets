@@ -85,7 +85,7 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config?url={url}",
-          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.2/v2rayNG_1.10.2_universal.apk",
+          "downloadLink": "https://github.com/2dust/v2rayNG/releases/download/1.10.23/v2rayNG_1.10.23_universal.apk",
           "tutorialSteps": [
             {
               "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
