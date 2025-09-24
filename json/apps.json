@@ -22,16 +22,17 @@
     "ShowInMenu": true
   },
   {
-    "name": "Hiddify",
-    "urlScheme": "happ://sub/onadd/",
-    "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
-    "link": "sing-box://import-remote-profile?url={fullUrl}&name=Sub",
-    "os": ["Android", "Windows"],
+    "name": "Happ",
+    "urlScheme": "happ://sub/onadd/{url}",
+    "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
+    "link": "happ://sub/onadd/{url}",
+    "os": ["iOS", "Android", "Windows"],
     "downloadLinks": {
-      "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1",
-      "Windows": "https://github.com/hiddify/hiddify-app/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe"
+       "iOS": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
+      "Android": "https://play.google.com/store/apps/details?id=com.happproxy",
+      "Windows": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "V2box",
@@ -54,17 +55,6 @@
       "Windows": "https://github.com/2dust/v2rayN/releases/download/7.14.12/v2rayN-windows-64-SelfContained.zip"
     },
     "ShowInMenu": false
-  },
-  {
-    "name": "Happ",
-    "image": "https://avatars.githubusercontent.com/u/22568082?s=200&v=4",
-    "os": ["iOS", "Android", "Windows"],
-    "downloadLinks": {
-       "iOS": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
-      "Android": "https://play.google.com/store/apps/details?id=com.happproxy",
-      "Windows": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
-    },
-    "ShowInMenu": true
   },
   {
     "name": "Nekoray",

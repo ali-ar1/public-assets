@@ -39,7 +39,7 @@
         {
           "name": "Happ",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/shadowrocket.png",
+          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "Happ یک کلاینت V2Ray چندسکویی است.",
           "configLink": "happ://sub/onadd/{url}",
@@ -107,7 +107,7 @@
                 {
           "name": "Happ",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
           "configLink": "happ://sub/onadd/{url}",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "Happ  یک کلاینت برای دستگاه‌های اندرویدی است.",
@@ -157,7 +157,7 @@
                         {
           "name": "Happ",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
+          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
           "description": "A V2Ray client for Windows devices.",
           "faDescription": "Happ  یک کلاینت برای ویندوز است.",
           "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
