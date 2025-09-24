@@ -42,7 +42,7 @@
           "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/shadowrocket.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "Happ یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "https://example.com/shadowrocket-config",
+          "configLink": "happ://sub/onadd/{url}",
           "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
         },
         {
@@ -105,12 +105,12 @@
           ]
         },
                 {
-          "name": "Hiddify",
+          "name": "Happ",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
-          "configLink": "sing-box://import-remote-profile?url={fullUrl}&name=Sub",
+          "configLink": "happ://sub/onadd/{url}",
           "description": "A V2Ray client for Android devices.",
-          "faDescription": "hiddify  یک کلاینت برای دستگاه‌های اندرویدی است.",
+          "faDescription": "Happ  یک کلاینت برای دستگاه‌های اندرویدی است.",
           "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1"
         },
         {
@@ -155,12 +155,12 @@
           "downloadLink": "https://github.com/2dust/v2rayN/releases/download/7.14.12/v2rayN-windows-64-SelfContained.zip"
         },
                         {
-          "name": "Hiddify",
+          "name": "Happ",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
-          "description": "A V2Ray client for Android devices.",
-          "faDescription": "hiddify  یک کلاینت برای ویندوز است.",
-          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe"
+          "description": "A V2Ray client for Windows devices.",
+          "faDescription": "Happ  یک کلاینت برای ویندوز است.",
+          "downloadLink": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe"
         },
         {
           "name": "Nekoray",
