@@ -37,13 +37,13 @@
           ]
         },
         {
-          "name": "Shadowrocket",
-          "price": "2.99",
+          "name": "Happ",
+          "price": "0",
           "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/shadowrocket.png",
-          "description": "A rule-based proxy utility client for iOS.",
-          "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "Happ یک کلاینت V2Ray چندسکویی است.",
           "configLink": "https://example.com/shadowrocket-config",
-          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+          "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
         },
         {
           "name": "V2box",
