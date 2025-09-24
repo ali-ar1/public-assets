@@ -35,6 +35,17 @@
     "ShowInMenu": true
   },
   {
+  "name": "Hiddify",
+  "urlScheme": "hiddify://import-subscription",
+  "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
+  "link": "hiddify://import-subscription?url={url}",
+  "os": ["Android"],
+  "downloadLinks": {
+    "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com"
+  },
+  "ShowInMenu": true
+},
+  {
     "name": "V2box",
     "urlScheme": "v2box://install-sub",
     "image": "https://play-lh.googleusercontent.com/kVeisXWkT4oRMDsZbFrY7XXJvnxHJ7PnQFE71XCcCWAoeOAg5G3HJRDp4Ro3Xbc3WA",

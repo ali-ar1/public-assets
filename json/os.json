@@ -113,6 +113,15 @@
           "faDescription": "Happ  یک کلاینت برای دستگاه‌های اندرویدی است.",
           "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1"
         },
+         {
+          "name": "Hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
+          "configLink": "hiddify://import-subscription?url={url}",
+          "description": "A V2Ray client for Android devices.",
+          "faDescription": "Hiddify  یک کلاینت برای دستگاه‌های اندرویدی است.",
+          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&pli=1"
+        },
         {
           "name": "V2box",
           "price": "0",
