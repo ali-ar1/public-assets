@@ -36,7 +36,7 @@
   },
   {
   "name": "Hiddify",
-  "urlScheme": "hiddify://import-subscription",
+  "urlScheme": "sing-box://import-remote-profile?url={fullUrl}&name=Sub",
   "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
   "link": "hiddify://import-subscription?url={url}",
   "os": ["Android"],
