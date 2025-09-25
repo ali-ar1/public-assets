@@ -42,7 +42,7 @@
           "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
           "description": "A cross-platform V2Ray client.",
           "faDescription": "Happ یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "happ://sub/onadd/{encodedUrl}",
+          "configLink": "{url}",
           "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
         },
         {
@@ -108,7 +108,7 @@
           "name": "Happ",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
-          "configLink": "happ://sub/onadd/{encodedUrl}",
+          "configLink": "{url}",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "Happ  یک کلاینت برای دستگاه‌های اندرویدی است.",
           "downloadLink": "https://play.google.com/store/apps/details?id=com.happproxy",
