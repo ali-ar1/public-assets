@@ -25,7 +25,7 @@
     "name": "Happ",
     "urlScheme": "happ://sub/add/{url}",
     "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/Happ.png",
-    "link": "happ://sub/add/{EncodedUrl}",
+    "link": "happ://sub/add/{fullUrl}",
     "os": ["iOS", "Android", "Windows"],
     "downloadLinks": {
        "iOS": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
@@ -38,7 +38,7 @@
   "name": "Hiddify",
   "urlScheme": "sing-box://import-remote-profile?url={fullUrl}&name=Sub",
   "image": "https://raw.githubusercontent.com/ali-ar1/public-assets/main/icons/hiddify.png",
-  "link": "hiddify://import-subscription?url={url}",
+  "link": "sing-box://import-remote-profile?url={fullUrl}&name=Sub",
   "os": ["Android"],
   "downloadLinks": {
     "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com"
